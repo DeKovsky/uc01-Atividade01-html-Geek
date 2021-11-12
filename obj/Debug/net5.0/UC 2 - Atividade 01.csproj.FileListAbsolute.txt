@@ -1,0 +1,16 @@
+C:\Users\andre\OneDrive\Documentos\Estudos DEV\SENAC\UC 2 - Atividade 01\bin\Debug\net5.0\UC 2 - Atividade 01.exe
+C:\Users\andre\OneDrive\Documentos\Estudos DEV\SENAC\UC 2 - Atividade 01\bin\Debug\net5.0\UC 2 - Atividade 01.deps.json
+C:\Users\andre\OneDrive\Documentos\Estudos DEV\SENAC\UC 2 - Atividade 01\bin\Debug\net5.0\UC 2 - Atividade 01.runtimeconfig.json
+C:\Users\andre\OneDrive\Documentos\Estudos DEV\SENAC\UC 2 - Atividade 01\bin\Debug\net5.0\UC 2 - Atividade 01.runtimeconfig.dev.json
+C:\Users\andre\OneDrive\Documentos\Estudos DEV\SENAC\UC 2 - Atividade 01\bin\Debug\net5.0\UC 2 - Atividade 01.dll
+C:\Users\andre\OneDrive\Documentos\Estudos DEV\SENAC\UC 2 - Atividade 01\bin\Debug\net5.0\ref\UC 2 - Atividade 01.dll
+C:\Users\andre\OneDrive\Documentos\Estudos DEV\SENAC\UC 2 - Atividade 01\bin\Debug\net5.0\UC 2 - Atividade 01.pdb
+C:\Users\andre\OneDrive\Documentos\Estudos DEV\SENAC\UC 2 - Atividade 01\obj\Debug\net5.0\UC 2 - Atividade 01.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Documentos\Estudos DEV\SENAC\UC 2 - Atividade 01\obj\Debug\net5.0\UC 2 - Atividade 01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Documentos\Estudos DEV\SENAC\UC 2 - Atividade 01\obj\Debug\net5.0\UC 2 - Atividade 01.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Documentos\Estudos DEV\SENAC\UC 2 - Atividade 01\obj\Debug\net5.0\UC 2 - Atividade 01.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Documentos\Estudos DEV\SENAC\UC 2 - Atividade 01\obj\Debug\net5.0\UC 2 - Atividade 01.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Documentos\Estudos DEV\SENAC\UC 2 - Atividade 01\obj\Debug\net5.0\UC 2 - Atividade 01.dll
+C:\Users\andre\OneDrive\Documentos\Estudos DEV\SENAC\UC 2 - Atividade 01\obj\Debug\net5.0\ref\UC 2 - Atividade 01.dll
+C:\Users\andre\OneDrive\Documentos\Estudos DEV\SENAC\UC 2 - Atividade 01\obj\Debug\net5.0\UC 2 - Atividade 01.pdb
+C:\Users\andre\OneDrive\Documentos\Estudos DEV\SENAC\UC 2 - Atividade 01\obj\Debug\net5.0\UC 2 - Atividade 01.genruntimeconfig.cache
